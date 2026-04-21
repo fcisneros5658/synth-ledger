@@ -14,10 +14,10 @@ Synthetic GL generator to produce a zipped file contanining entity-wide:
 ## II. Supporting PDFs
 
 ```
-* vendor invoices,
-* payroll registers,
-* debt schedule,
-* management reps.
+* Vendor invoices,
+* Payroll registers,
+* Debt schedule,
+* Management reps.
 ```
 
 </div>
