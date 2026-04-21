@@ -8,18 +8,18 @@ Zipped file contanining entity-wide:
 ## I. Excel files
 
 ```
-* COA,
-* TB,
-* GL .xlsx triple, plus one folder per 4-digit UAS series (each with its own TB/GL/COA slice), and
+- COA,
+- TB,
+- GL .xlsx triple, plus one folder per 4-digit UAS series (each with its own TB/GL/COA slice), and
 ```
 
 ## II. Supporting PDFs
 
 ```
-* Vendor invoices,
-* Payroll registers,
-* Debt schedule,
-* Management reps.
+- Vendor invoices,
+- Payroll registers,
+- Debt schedule,
+- Management reps.
 
 Note
 
